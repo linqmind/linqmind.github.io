@@ -43388,7 +43388,7 @@ p.dr$=new B.FI(H.d([],u.Aa))
 r=B.a4G(null,null,null,null,null,null,null,null,null,null,null,null,null)
 r.a="GET"
 t=2
-return P.am(p.Ct(0,"http://119.45.152.6:8888/json/gson",null,null,r,null,u.z),$async$ld)
+return P.am(p.Ct(0,"https://s.api.linqmind.com/cls-31ey1a6t-kgbook/json/gson",null,null,r,null,u.z),$async$ld)
 case 2:q=b
 P.e1(q.a)
 E.IK(C.q,16,C.AD,"\u8bf7\u6c42\u8fd4\u56de\u6570\u636e:"+H.b(q.a),C.m,1,C.AF)
